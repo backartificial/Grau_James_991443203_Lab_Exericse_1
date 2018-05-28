@@ -1,0 +1,20 @@
+C:\Users\james\source\repos\Labs\CurrencyConverterApp\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.exe.config
+C:\Users\james\source\repos\Labs\CurrencyConverterApp\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.exe
+C:\Users\james\source\repos\Labs\CurrencyConverterApp\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.pdb
+C:\Users\james\source\repos\Labs\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csprojAssemblyReference.cache
+C:\Users\james\source\repos\Labs\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.frmCurrencyConverter.resources
+C:\Users\james\source\repos\Labs\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.Properties.Resources.resources
+C:\Users\james\source\repos\Labs\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csproj.GenerateResource.cache
+C:\Users\james\source\repos\Labs\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\Labs\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.exe
+C:\Users\james\source\repos\Labs\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.pdb
+C:\Users\james\source\repos\Labs\Grau_James_991443203_Lab Exericse1\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.exe.config
+C:\Users\james\source\repos\Labs\Grau_James_991443203_Lab Exericse1\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.exe
+C:\Users\james\source\repos\Labs\Grau_James_991443203_Lab Exericse1\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.pdb
+C:\Users\james\source\repos\Labs\Grau_James_991443203_Lab Exericse1\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csprojAssemblyReference.cache
+C:\Users\james\source\repos\Labs\Grau_James_991443203_Lab Exericse1\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.frmCurrencyConverter.resources
+C:\Users\james\source\repos\Labs\Grau_James_991443203_Lab Exericse1\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.Properties.Resources.resources
+C:\Users\james\source\repos\Labs\Grau_James_991443203_Lab Exericse1\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csproj.GenerateResource.cache
+C:\Users\james\source\repos\Labs\Grau_James_991443203_Lab Exericse1\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\Labs\Grau_James_991443203_Lab Exericse1\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.exe
+C:\Users\james\source\repos\Labs\Grau_James_991443203_Lab Exericse1\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.pdb
